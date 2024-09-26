@@ -19,13 +19,13 @@
 
   <!-- Vendor CSS Files -->
 
-  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/vendor/bootstrap/css/bootstrap.min.css')">
-  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/vendor/bootstrap-icons/bootstrap-icons.css')">
-  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/vendor/boxicons/css/boxicons.min.css')">
-  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/vendor/quill/quill.snow.css')">
-  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/vendor/quill/quill.bubble.css')">
-  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/vendor/remixicon/remixicon.css')">
-  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/css/style.css')">
+  <link rel="stylesheet" href="{{asset('https://mascotaslaravel-production.up.railway.app/vendor/bootstrap/css/bootstrap.min.css')}}">
+  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/vendor/bootstrap-icons/bootstrap-icons.css')}}">
+  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/vendor/boxicons/css/boxicons.min.css')}}">
+  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/vendor/quill/quill.snow.css')}}">
+  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/vendor/quill/quill.bubble.css')}}">
+  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/vendor/remixicon/remixicon.css')}}">
+  <link rel="stylesheet" href="https://mascotaslaravel-production.up.railway.app/css/style.css')}}">
 
   <!-- Template Main CSS File -->
 
